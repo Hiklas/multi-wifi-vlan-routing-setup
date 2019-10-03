@@ -1,0 +1,8 @@
+# Backup files
+*~
+.\#*
+\#*\#
+
+# Virtual environments
+matrix
+

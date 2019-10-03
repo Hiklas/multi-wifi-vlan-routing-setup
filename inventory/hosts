@@ -1,0 +1,17 @@
+<<<<<<< HEAD
+[allnodes:children]
+radius
+ldap
+
+[radius]
+gingy
+
+[ldap]
+snow
+sleeping
+
+=======
+[router]
+gingy
+
+>>>>>>> Adding initial files
