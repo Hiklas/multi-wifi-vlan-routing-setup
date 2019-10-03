@@ -68,8 +68,8 @@ This device has three gigabit network connections.
         |                       | 
         |                       |
   +--------------+        +--------------+
-  | Access Point |		  | Access Point |
-  +--------------+		  +--------------+
+  | Access Point |        | Access Point |
+  +--------------+        +--------------+
 ```
 
 
